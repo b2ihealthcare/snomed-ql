@@ -25,4 +25,4 @@ Bundle-RequiredExecutionEnvironment: JavaSE-11
 Export-Package: com.b2international.snomed.ql.ui.contentassist,
  com.b2international.snomed.ql.ui.internal,
  com.b2international.snomed.ql.ui.quickfix
-Bundle-Activator: com.b2international.snowowl.snomed.ql.ui.internal.QlActivator
+Bundle-Activator: com.b2international.snomed.ql.ui.internal.QlActivator
