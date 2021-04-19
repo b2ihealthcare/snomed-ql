@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.b2international.snomed.ql.feature_0.1.0.qualifier.jar" id="com.b2international.snomed.ql.feature" version="0.1.0.qualifier">
+      <category name="snomed-ql"/>
+   </feature>
+   <feature url="features/com.b2international.snomed.ql.ui.feature_0.1.0.qualifier.jar" id="com.b2international.snomed.ql.ui.feature" version="0.1.0.qualifier">
+      <category name="snomed-ql"/>
+   </feature>
+   <category-def name="snomed-ql" label="SNOMED CT Expression Constraint Language"/>
+</site>
