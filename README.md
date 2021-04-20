@@ -2,7 +2,7 @@
 SNOMED CT Query Language Implementation with IDE integration(s), user interface using Xtext.
 
 [![build status](https://img.shields.io/github/workflow/status/b2ihealthcare/snomed-ql/Java%20CI/main?style=flat-square)](https://github.com/b2ihealthcare/snomed-ql/actions)
-[![latest release](https://img.shields.io/github/tag/b2ihealthcare/snomed-ql.svg?style=flat-square)](https://github.com/b2ihealthcare/snomed-ql/releases/tag/v0.1.0)
+[![latest release](https://img.shields.io/github/tag/b2ihealthcare/snomed-ql.svg?style=flat-square)](https://github.com/b2ihealthcare/snomed-ql/releases/tag/v0.1.1)
 [![GitHub](https://img.shields.io/github/license/b2ihealthcare/snomed-ql.svg?style=flat-square)](https://github.com/b2ihealthcare/snomed-ql/blob/main/LICENSE)
 
 # Documentation
