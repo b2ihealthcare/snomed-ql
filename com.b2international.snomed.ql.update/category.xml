@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.b2international.snomed.ql.feature_0.1.1.jar" id="com.b2international.snomed.ql.feature" version="0.1.1">
+   <feature url="features/com.b2international.snomed.ql.feature_0.1.2.jar" id="com.b2international.snomed.ql.feature" version="0.1.2">
       <category name="snomed-ql"/>
    </feature>
-   <feature url="features/com.b2international.snomed.ql.ui.feature_0.1.1.jar" id="com.b2international.snomed.ql.ui.feature" version="0.1.1">
+   <feature url="features/com.b2international.snomed.ql.ui.feature_0.1.2.jar" id="com.b2international.snomed.ql.ui.feature" version="0.1.2">
       <category name="snomed-ql"/>
    </feature>
-   <category-def name="snomed-ql" label="SNOMED CT Expression Constraint Language"/>
+   <category-def name="snomed-ql" label="SNOMED CT Query Language"/>
 </site>
